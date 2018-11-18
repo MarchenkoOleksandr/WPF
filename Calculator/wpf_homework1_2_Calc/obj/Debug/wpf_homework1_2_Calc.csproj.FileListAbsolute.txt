@@ -1,0 +1,14 @@
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\bin\Debug\wpf_homework1_2_Calc.exe.config
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\bin\Debug\wpf_homework1_2_Calc.exe
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\bin\Debug\wpf_homework1_2_Calc.pdb
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.csprojAssemblyReference.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\MainWindow.g.cs
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\App.g.cs
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc_MarkupCompile.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\MainWindow.baml
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.g.resources
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.Properties.Resources.resources
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.csproj.GenerateResource.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.exe
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework1_2_Calc\wpf_homework1_2_Calc\obj\Debug\wpf_homework1_2_Calc.pdb

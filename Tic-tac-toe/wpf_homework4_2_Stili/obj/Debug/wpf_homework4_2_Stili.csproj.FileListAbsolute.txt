@@ -1,0 +1,14 @@
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\bin\Debug\wpf_homework4_2_Stili.exe.config
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\bin\Debug\wpf_homework4_2_Stili.exe
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\bin\Debug\wpf_homework4_2_Stili.pdb
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.csprojAssemblyReference.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\MainWindow.g.cs
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\App.g.cs
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili_MarkupCompile.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\MainWindow.baml
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.g.resources
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.Properties.Resources.resources
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.csproj.GenerateResource.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.exe
+D:\Академия ШАГ\WPF\WPF homeworks\wpf_homework4_2_Stili\wpf_homework4_2_Stili\obj\Debug\wpf_homework4_2_Stili.pdb
